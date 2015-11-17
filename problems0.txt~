@@ -1,0 +1,28 @@
+1a) 13 = 0b00001101
+1b) 9 = 0b00001001
+1c) 19 = 0b00010011
+2a) 0101 = 5
+2b) 1101 = 13
+2c) 1011 = 11
+3a) 73 = 0x49
+3b) 23 = 0x17
+3c) 151 = 0x97
+4a) -15 = 0b11110001
+4b) -6 = 0b11111010
+4c) -10 = 0b11110110
+5a) Shifting the digits two to the left is the same as performing multiplication by 2^2. 
+5b) Shifting the digits three to the right is the same as performing division by 2^3. 
+5c) Performing a bitwise AND with the number 7 is the same as performing modulus by 2^3.
+6a) If the bit in bit position 0 is a 1 (for an integer), the number is odd
+6b) If a number contains all 0's except a 1 in position n, the value is 2^n
+7a) bitwise and 
+7b) 0b0000000000011111 
+7c) bitwise and 
+7d) 0b0000000111100000 
+7e) bitwise and 
+7f) 0b1111111000000000 
+7g) shift right 
+7h) 9
+8a) 0x20e5ffef
+8b) 0x8a880040
+8c) 0x02200008
